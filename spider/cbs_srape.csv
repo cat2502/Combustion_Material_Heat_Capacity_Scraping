@@ -1,0 +1,20 @@
+Nitric acid,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1200.,19.63229,153.9599,-115.8378,32.87955,-0.249114,-146.8818,247.7049,-134.3060,"Chase, 1998","Data last reviewed in June, 1963"
+Carbon dioxide,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1200.,24.99735,55.18696,-33.69137,7.948387,-0.136638,-403.6075,228.2431,-393.5224,"Chase, 1998","Data last reviewed in September, 1965"
+Water,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,500. - 1700.,30.09200,6.832514,6.793435,-2.534480,0.082139,-250.8810,223.3967,-241.8264,"Chase, 1998","Data last reviewed in March, 1979"
+Hydrogen,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1000.,33.066178,-11.363417,11.432816,-2.772874,-0.158558,-9.980797,172.707974,0.0,"Chase, 1998","Data last reviewed in March, 1977; New parameter fit October 2001"
+Carbon monoxide,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1300.,25.56759,6.096130,4.054656,-2.671301,0.131021,-118.0089,227.3665,-110.5271,"Chase, 1998","Data last reviewed in September, 1965"
+Oxygen,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,100. - 700.,31.32234,-20.23531,57.86644,-36.50624,-0.007374,-8.903471,246.7945,0.0,"Chase, 1998","Data last reviewed in March, 1977; New parameter fit January 2009"
+Nitrogen,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,100. - 500.,28.98641,1.853978,-9.647459,16.63537,0.000117,-8.671914,226.4168,0.0,"Chase, 1998","Data last reviewed in March, 1977; New parameter fit January 2009"
+Hydroxyl radical,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1300.,32.27768,-11.36291,13.60545,-3.846486,-0.001335,29.75113,225.5783,38.98706,"Chase, 1998","Data last reviewed in June, 1977"
+Nitric oxide,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 1200.,23.83491,12.58878,-1.139011,-1.497459,0.214194,83.35783,237.1219,90.29114,"Chase, 1998","Data last reviewed in June, 1963"
+Hydrogen atom,Temperature (K),A,B,C,D,E,F,G,H,Reference,Comment
+,298. - 6000.,20.78603,4.850638¡Á10-10,-1.582916¡Á10-10,1.525102¡Á10-11,3.196347¡Á10-11,211.8020,139.8711,217.9994,"Chase, 1998","Data last reviewed in March, 1982"
